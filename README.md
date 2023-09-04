@@ -16,7 +16,7 @@ You are welcome to visit my website : [lucas-faget.com](https://www.lucas-faget.
   * I used PHP a lot in my work experience 
   * I have the basics of 🟥 **Laravel** and 🎵 **Symfony**
 * 💾 **Database** (SQL and NoSQL)
-  * I master 🐬 **MySQL**, 🐘 **PostgresSQL** and I have knowledge in 🍃 **MongoDB**
+  * I master 🐬 **MySQL**, 🐘 **PostgreSQL** and I have knowledge in 🍃 **MongoDB**
 * 🖥️ **OS**
   * I mainly use **Windows** but I have abilities with **Linux**
 * 🐋 **Docker**
