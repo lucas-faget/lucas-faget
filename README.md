@@ -3,6 +3,7 @@
 Hello 🙌
 
 I am a junior web developer from France.
+I am passionate about the web, I spend a lot of time coding, I like to learn and working on personal projects in my free time. I try to train independently to always be up to date on the latest technologies.
 
 To visit my website: [lucas-faget.com](https://www.lucas-faget.com).
 
@@ -19,7 +20,7 @@ To visit my website: [lucas-faget.com](https://www.lucas-faget.com).
 * 🖥️ **OS**
   * I mainly use **Windows** but I have abilities with **Linux**
 * 🐋 **Docker**
-  * I'm learning and I try to integrate Docker in my projets
+  * I'm learning and I try to integrate Docker in my projects
 
 ## Open Source Projects
 
