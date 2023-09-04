@@ -18,7 +18,7 @@ I am a junior web developer from France. To visit my website: [lucas-faget.com](
   - Web Developer Intern
   - Maintenance and development of an application to optimize waste collection circuits.
 
-- [Audit Action +](https://auditaction.eu/) (2021) [2 months]
+- [Audit Action plus](https://auditaction.eu/) (2021) [2 months]
   - Web Developer Intern
   - Development of an ERP.
   - PHP / JavaScript / MySQL
@@ -27,9 +27,8 @@ I am a junior web developer from France. To visit my website: [lucas-faget.com](
 
 - [Professional Bachelor Degree in computer sciences](https://www.iut.u-bordeaux.fr/) - University of Bordeaux (2023)
 - [DUT in computing](https://iut.univ-tlse3.fr/) - University of Toulouse (2021)
-- [Preparatory classes for science schools](https://www.lyceelouisbarthou.fr/) - Louis Barthou high school (2016 - 2018)
 
 ## Contact
 
 - [lucas.faget@laposte.net](mailto:lucas.faget@laposte.net)
-- [LinkedIn profile](https://www.linkedin.com/in/lucas-faget-b94727212/)
+- [LinkedIn](https://www.linkedin.com/in/lucas-faget-b94727212/)
