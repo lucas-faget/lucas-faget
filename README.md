@@ -2,8 +2,8 @@
 
 Hello 🙌
 
-I am a junior web developer from France.
-I am passionate about the web, I spend a lot of time coding, I like to learn and working on personal projects in my free time. I try to train independently to always be up to date on the latest technologies.
+I am a junior web developer from 🇫🇷 France.
+I am passionate about the web, I spend a lot of time 💻 coding, I like to learn and working on personal projects in my free time. I try to 🔍 train independently to always be up to date on the latest technologies.
 
 To visit my website: [lucas-faget.com](https://www.lucas-faget.com).
 
