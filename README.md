@@ -7,6 +7,8 @@ I am passionate about the web, I spend a lot of time 💻 coding, I like to lear
 
 You are welcome to visit my website : [lucas-faget.com](https://www.lucas-faget.com).
 
+https://github-readme-stats.vercel.app/api/top-langs/?username=jeandupont&layout=compact&theme=dark
+
 ## Skills
 
 * 🟨 **JavaScript** and 🟦 **TypeScript**
