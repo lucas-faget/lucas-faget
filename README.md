@@ -7,7 +7,7 @@ I am a junior web developer from France. To visit my website: [lucas-faget.com](
 * 🟨 JavaScript and 🟦 Typescript
   * I love ❤️ **Svelte** and 💚 **Vue** and I know a bit 💙 **React**
 * 🐘 PHP
-  ** I have the basics of 🟥 **Laravel** and 🎵 **Symfony**
+  * I have the basics of 🟥 **Laravel** and 🎵 **Symfony**
 
 ## Open Source Projects
 
