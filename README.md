@@ -1,13 +1,25 @@
 # Lucas Faget
 
-I am a junior web developer from France. To visit my website: [lucas-faget.com](https://www.lucas-faget.com)
+Hello 🙌
+
+I am a junior web developer from France.
+
+To visit my website: [lucas-faget.com](https://www.lucas-faget.com).
 
 ## Skills
 
-* 🟨 **JavaScript** and 🟦 **Typescript**
-  * I love ❤️ **Svelte** and 💚 **Vue** and I know a bit 💙 **React**
+* 🟨 **JavaScript** and 🟦 **TypeScript**
+  * I use JS and TS all the time with a preference for TypeScript 💪
+  * I love ❤️ **Svelte** and 💚 **Vue** and I know a bit :electron: **React**
 * 🐘 **PHP**
+  * I used PHP a lot in my work experience 
   * I have the basics of 🟥 **Laravel** and 🎵 **Symfony**
+* 💾 **Database** (SQL and NoSQL)
+  * I master 🐬 **MySQL**, 🐘 **PostgresSQL** and I have knowledge in 🍃 **MongoDB**
+* 🖥️ **OS**
+  * I mainly use **Windows** but I have abilities with **Linux**
+* 🐋 **Docker**
+  * I'm learning and I try to integrate Docker in my projets
 
 ## Open Source Projects
 
@@ -21,11 +33,11 @@ I am a junior web developer from France. To visit my website: [lucas-faget.com](
 
 * [Simpliciti](https://www.simpliciti.fr/) (2022 - 2023) [1 year]
   * Web Developer Intern
-  * Maintenance and development of an application to optimize waste collection circuits.
+  * Maintenance and development of an application to optimize waste collection circuits
 
 * [Audit Action plus](https://auditaction.eu/) (2021) [2 months]
   * Web Developer Intern
-  * Development of an ERP.
+  * Development of an ERP
   * PHP / JavaScript / MySQL
 
 ## Education
@@ -35,5 +47,5 @@ I am a junior web developer from France. To visit my website: [lucas-faget.com](
 
 ## Contact
 
-- [lucas.faget@laposte.net](mailto:lucas.faget@laposte.net)
-- [LinkedIn](https://www.linkedin.com/in/lucas-faget-b94727212/)
+- ✉️ [lucas.faget@laposte.net](mailto:lucas.faget@laposte.net)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/lucas-faget-b94727212/)
