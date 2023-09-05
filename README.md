@@ -13,7 +13,7 @@ You are welcome to visit my website : [lucas-faget.com](https://www.lucas-faget.
 
 * 🟨 **JavaScript** and 🟦 **TypeScript**
   * I use JS and TS all the time with a preference for TypeScript 💪
-  * I love ❤️ **Svelte** and 💚 **Vue** and I know a bit :electron: **React**
+  * I love 💚 **Vue** and ❤️ **Svelte** and I know a bit :electron: **React**
 * 🐘 **PHP**
   * I used PHP a lot in my work experience 
   * I have the basics of 🟥 **Laravel** and 🎵 **Symfony**
