@@ -50,5 +50,5 @@ You are welcome to visit my website : [lucas-faget.com](https://www.lucas-faget.
 
 ## Contact
 
-- ✉️ [lucas.faget@laposte.net](mailto:lucas.faget@laposte.net)
+- ✉️ [contact@lucas-faget.com](mailto:contact@lucas-faget.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/lucas-faget/)
