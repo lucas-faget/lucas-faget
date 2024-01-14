@@ -13,10 +13,12 @@ You are welcome to visit my website : [lucas-faget.com](https://www.lucas-faget.
 
 * 🟨 **JavaScript** and 🟦 **TypeScript**
   * I use JS and TS all the time with a preference for TypeScript 💪
-  * I love 💚 **Vue** and ❤️ **Svelte** and I know a bit :electron: **React**
+  * I love 💚 **Vue** and ❤️ **Svelte** and I know a bit 🌀 **React**
 * 🐘 **PHP**
   * I used PHP a lot in my work experience 
-  * I have the basics of 🟥 **Laravel** and 🎵 **Symfony**
+  * I have the basics of 🎵 **Symfony** and 🟥 **Laravel**
+* 💎 **Node**
+  * I know a bit Node.js
 * 💾 **Database** (SQL and NoSQL)
   * I master 🐬 **MySQL**, 🐘 **PostgreSQL** and I have knowledge in 🍃 **MongoDB**
 * 🖥️ **OS**
@@ -26,11 +28,12 @@ You are welcome to visit my website : [lucas-faget.com](https://www.lucas-faget.
 
 ## Open Source Projects
 
-* 👦 [Portfolio](https://github.com/lucas-faget/svelte-portfolio) - My online portfolio where I display my projects.
-* ♟️ [Chess](https://github.com/lucas-faget/vue-chess) - A local chess website.
-* 🕹️ [Sokoban](https://github.com/lucas-faget/svelte-sokoban) - A single-level sokoban game.
-* 🎞️ [Movue](https://github.com/lucas-faget/vue-movies) - a crud application for movies.
-* 🍽️ [Healthy](https://github.com/lucas-faget/laravel-healthy) - A food products application to count calories.
+* 👦 [Portfolio](https://github.com/lucas-faget/svelte-portfolio) - My online portfolio where I display my projects (**Svelte**).
+* ♟️ [Chess](https://github.com/lucas-faget/nest-vue-chess) - A chess website (**Vue** and **Nest**).
+* 🍽️ [Healthy](https://github.com/lucas-faget/laravel-healthy) - A food products application to count calories (**Laravel** and **Svelte**).
+* 🌐 [Networth](https://github.com/lucas-faget/symfony-vue-networth) - A professional social network inspired by LinkedIn (**Symfony and Vue**).
+* 🎞️ [Movue](https://github.com/lucas-faget/vue-movies) - a CRUD application for movies (**Vue**).
+* 🕹️ [Sokoban](https://github.com/lucas-faget/svelte-sokoban) - A single-level sokoban game (**Svelte**).
 
 ## Work Experience
 
@@ -45,8 +48,9 @@ You are welcome to visit my website : [lucas-faget.com](https://www.lucas-faget.
 
 ## Education
 
-- [Professional Bachelor Degree in computer sciences](https://www.iut.u-bordeaux.fr/) - University of Bordeaux (2023)
-- [DUT in computing](https://iut.univ-tlse3.fr/) - University of Toulouse (2021)
+- [Professional Bachelor Degree in Web Development](https://www.iut.u-bordeaux.fr/) - University of Bordeaux (2023)
+- [DUT in Computer Sciences](https://iut.univ-tlse3.fr/) - University of Toulouse (2021)
+- [Bachelor Degree in Physics]([https://iut.univ-tlse3.fr/](https://formation.univ-pau.fr/fr/catalogue/sciences-technologies-sante-STS/licence-XA/licence-physique-chimie-L3VF0L6T.html)) - University of Pau (2019)
 
 ## Contact
 
