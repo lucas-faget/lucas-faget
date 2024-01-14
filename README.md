@@ -30,7 +30,7 @@ You are welcome to visit my website : [lucas-faget.com](https://www.lucas-faget.
 
 * 👦 [Portfolio](https://github.com/lucas-faget/svelte-portfolio) - My online portfolio where I display my projects (**Svelte**).
 * ♟️ [Chess](https://github.com/lucas-faget/nest-vue-chess) - A chess website (**Vue** and **Nest**).
-* 🍽️ [Healthy](https://github.com/lucas-faget/laravel-healthy) - A food products application to count calories (**Laravel** and **Svelte**).
+* 🍽️ [Healthy](https://github.com/lucas-faget/laravel-healthy) - A food product application to count calories (**Laravel** and **Svelte**).
 * 🌐 [Networth](https://github.com/lucas-faget/symfony-vue-networth) - A professional social network inspired by LinkedIn (**Symfony and Vue**).
 * 🎞️ [Movue](https://github.com/lucas-faget/vue-movies) - a CRUD application for movies (**Vue**).
 * 🕹️ [Sokoban](https://github.com/lucas-faget/svelte-sokoban) - A single-level sokoban game (**Svelte**).
