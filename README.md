@@ -50,7 +50,7 @@ You are welcome to visit my website : [lucas-faget.com](https://www.lucas-faget.
 
 - [Professional Bachelor Degree in Web Development](https://www.iut.u-bordeaux.fr/) - University of Bordeaux (2023)
 - [DUT in Computer Sciences](https://iut.univ-tlse3.fr/) - University of Toulouse (2021)
-- [Bachelor Degree in Physics]([https://iut.univ-tlse3.fr/](https://formation.univ-pau.fr/fr/catalogue/sciences-technologies-sante-STS/licence-XA/licence-physique-chimie-L3VF0L6T.html)) - University of Pau (2019)
+- [Bachelor Degree in Physics](https://formation.univ-pau.fr/fr/catalogue/sciences-technologies-sante-STS/licence-XA/licence-physique-chimie-L3VF0L6T.html) - University of Pau (2019)
 
 ## Contact
 
