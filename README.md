@@ -3,7 +3,7 @@
 Hello 🙌
 
 I am a junior web developer from 🇫🇷 France.
-I am passionate about the web, I spend a lot of time 💻 coding, I like to learn and working on personal projects in my free time. I try to 🔍 train independently to always be up to date on the latest technologies.
+💻 I am passionate about coding and web development. 🔍 I try to learn independently about technologies that I enjoy and to always be up to date on the latest technologies.
 
 You are welcome to visit my website : [lucas-faget.com](https://www.lucas-faget.com).
 
@@ -17,6 +17,8 @@ You are welcome to visit my website : [lucas-faget.com](https://www.lucas-faget.
 * 🐘 **PHP**
   * I used PHP a lot in my work experience 
   * I have the basics of 🎵 **Symfony** and 🟥 **Laravel**
+* #️⃣ **C#**
+  * I am learning C# and ASP.NET Core 
 * 💎 **Node**
   * I know a bit Node.js
 * 💾 **Database** (SQL and NoSQL)
@@ -29,8 +31,8 @@ You are welcome to visit my website : [lucas-faget.com](https://www.lucas-faget.
 ## Open Source Projects
 
 * 👦 [Portfolio](https://github.com/lucas-faget/svelte-portfolio) - My online portfolio where I display my projects (**Svelte**).
-* ♟️ [Chess](https://github.com/lucas-faget/nest-vue-chess) - A chess website (**Vue** and **Nest**).
-* 🍽️ [Healthy](https://github.com/lucas-faget/laravel-healthy) - A food product application to count calories (**Laravel** and **Svelte**).
+* ♟️ [Chess](https://github.com/lucas-faget/vue-chess) - A chess website (**Vue**).
+* 🍽️ [Healthy](https://github.com/lucas-faget/laravel-svelte-healthy) - A food product application to count calories (**Laravel** and **Svelte**).
 * 🌐 [Networth](https://github.com/lucas-faget/symfony-vue-networth) - A professional social network inspired by LinkedIn (**Symfony and Vue**).
 * 🎞️ [Movue](https://github.com/lucas-faget/vue-movies) - a CRUD application for movies (**Vue**).
 * 🕹️ [Sokoban](https://github.com/lucas-faget/svelte-sokoban) - A single-level sokoban game (**Svelte**).
