@@ -2,8 +2,8 @@
 
 Hello 🙌
 
-I am a junior web developer from 🇫🇷 France.
-💻 I am passionate about coding and web development. 🔍 I try to learn independently about technologies that I enjoy and to always be up to date on the latest technologies.
+I am a junior web developer from France.
+💻 I am passionate about coding and web development. 🔍 I try to learn independently to improve my skills and exploring technologies to always be up to date on the latest technologies.
 
 You are welcome to visit my website : [lucas-faget.com](https://www.lucas-faget.com).
 
@@ -18,7 +18,7 @@ You are welcome to visit my website : [lucas-faget.com](https://www.lucas-faget.
   * I used PHP a lot in my work experience 
   * I have the basics of 🎵 **Symfony** and 🟥 **Laravel**
 * #️⃣ **C#**
-  * I am learning C# and ASP.NET Core 
+  * I am learning **C#** and **ASP.NET Core** 
 * 💎 **Node**
   * I know a bit Node.js
 * 💾 **Database** (SQL and NoSQL)
