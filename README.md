@@ -17,7 +17,7 @@ You are welcome to visit my website : [lucas-faget.com](https://www.lucas-faget.
 * 🐘 **PHP**
   * I used PHP a lot in my work experience 
   * I have the basics of 🎵 **Symfony** and 🟥 **Laravel**
-* #️⃣  **C#**
+* #️⃣ **C#**
   * I am learning **C#** and **ASP.NET Core** 
 * 💎 **Node**
   * I know a bit Node.js
