@@ -32,10 +32,11 @@ You are welcome to visit my website : [lucas-faget.com](https://www.lucas-faget.
 
 * 👦 [Portfolio](https://github.com/lucas-faget/svelte-portfolio) - My online portfolio where I display my projects (**Svelte**).
 * ♟️ [Chess](https://github.com/lucas-faget/vue-chess) - A chess website (**Vue**).
+* ❓ [Quiz](https://github.com/lucas-faget/dotnet-quiz-api) - A Quiz server powered by SignalR (**ASP.Net**)
 * 🍽️ [Healthy](https://github.com/lucas-faget/laravel-svelte-healthy) - A food product application to count calories (**Laravel** and **Svelte**).
 * 🌐 [Networth](https://github.com/lucas-faget/symfony-vue-networth) - A professional social network inspired by LinkedIn (**Symfony and Vue**).
-* 🎞️ [Movue](https://github.com/lucas-faget/vue-movies) - a CRUD application for movies (**Vue**).
 * 🕹️ [Sokoban](https://github.com/lucas-faget/svelte-sokoban) - A single-level sokoban game (**Svelte**).
+* 🎞️ [Movue](https://github.com/lucas-faget/nuxt-movue) - a CRUD application for movies (**Nuxt**).
 
 ## Work Experience
 
