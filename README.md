@@ -1,9 +1,8 @@
 # Lucas Faget
 
-Hello 🙌
+Hello !
 
-I am a junior web developer from France.
-💻 I am passionate about coding and web development. 🔍 I try to learn independently to improve my skills and exploring technologies to always be up to date on the latest technologies.
+I am a junior web developer from France. I am passionate about coding and web development 💻. I try to learn independently to improve my skills and exploring technologies to always be up to date on the latest technologies 🔍.
 
 You are welcome to visit my website : [lucas-faget.com](https://www.lucas-faget.com).
 
