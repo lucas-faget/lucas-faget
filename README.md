@@ -14,6 +14,7 @@ You are welcome to visit my website : [lucas-faget.com](https://www.lucas-faget.
 * 🟨 **JavaScript** and 🟦 **TypeScript**
   * I use JS and TS all the time with a preference for TypeScript 💪
   * I love 💚 **Vue** and ❤️ **Svelte** and I know a bit 🌀 **React**
+  * I use **Nuxt** and **SvelteKit** for my projects
 * 🐘 **PHP**
   * I used PHP a lot in my work experience 
   * I have the basics of 🎵 **Symfony** and 🟥 **Laravel**
@@ -30,13 +31,13 @@ You are welcome to visit my website : [lucas-faget.com](https://www.lucas-faget.
 
 ## Open Source Projects
 
-* 👦 [Portfolio](https://github.com/lucas-faget/svelte-portfolio) - My online portfolio where I display my projects (**Svelte**).
+* 👦 [Portfolio](https://github.com/lucas-faget/svelte-portfolio) - My online portfolio where I display my projects (**SvelteKit**).
+* 🎞️ [Movue](https://github.com/lucas-faget/nuxt-movue) - A movie catalog using the TMDB api data (**Nuxt**).
 * ♟️ [Chess](https://github.com/lucas-faget/vue-chess) - A chess website (**Vue**).
 * ❓ [Quiz](https://github.com/lucas-faget/dotnet-quiz-api) - A Quiz server powered by SignalR (**ASP.Net**)
 * 🍽️ [Healthy](https://github.com/lucas-faget/laravel-svelte-healthy) - A food product application to count calories (**Laravel** and **Svelte**).
-* 🌐 [Networth](https://github.com/lucas-faget/symfony-vue-networth) - A professional social network inspired by LinkedIn (**Symfony and Vue**).
+* 🌐 [Networth](https://github.com/lucas-faget/symfony-vue-networth) - A social network inspired by LinkedIn (**Symfony and Vue**).
 * 🕹️ [Sokoban](https://github.com/lucas-faget/svelte-sokoban) - A single-level sokoban game (**Svelte**).
-* 🎞️ [Movue](https://github.com/lucas-faget/nuxt-movue) - a CRUD application for movies (**Nuxt**).
 
 ## Work Experience
 
